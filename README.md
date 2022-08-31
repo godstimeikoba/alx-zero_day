@@ -1,1 +1,1 @@
-My first readme
+Software Enginerring in ALX na ur mate!
